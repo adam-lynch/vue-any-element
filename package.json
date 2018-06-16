@@ -1,0 +1,20 @@
+{
+  "name": "vue-any-element",
+  "version": "1.0.0",
+  "description": "A Vue.js component which allows you to dynamically change the tag of a child element saving loads of awkward code.",
+  "main": "AnyElement.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam-lynch/vue-any-element.git"
+  },
+  "keywords": ["vue", "dynamic", "component", "tag", "dom", "element"],
+  "author": "Adam Lynch <contact@adamlynch.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adam-lynch/vue-any-element/issues"
+  },
+  "homepage": "https://github.com/adam-lynch/vue-any-element#readme"
+}
